@@ -1,7 +1,7 @@
 {
   "name": "tokencrypto",
-  "version": "1.0.1",
-  "description": "Encrypt & Decryp tokens",
+  "version": "1.0.2",
+  "description": "Encrypt & Decryp tokens using CryptJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
