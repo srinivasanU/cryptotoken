@@ -4,12 +4,12 @@ Get your data Encrypted/Decrypted for your app
 
 # Installation
 
-`npm i cryptotoken --save`
+`npm i tokencrypto --save`
 
 Then...
 
 ```
-import { tokenEncrypterAES , tokenDecrypterAES } from 'cryptotoken';
+import { tokenEncrypterAES , tokenDecrypterAES } from 'tokencrypto';
 
 tokenEncrypterAES(Data , Secret key)
 tokenDecrypterAES(Encrypted Data,Secret key used while encrypting)

@@ -1,5 +1,5 @@
 {
-  "name": "cryptotoken",
+  "name": "tokencrypto",
   "version": "1.0.0",
   "description": "Encrypt & Decryp tokens",
   "main": "index.js",
