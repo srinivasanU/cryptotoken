@@ -1,0 +1,27 @@
+{
+  "name": "cryptotoken",
+  "version": "1.0.0",
+  "description": "Encrypt & Decryp tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinivasanU/cryptotoken.git"
+  },
+  "keywords": [
+    "Encrypt",
+    "Decrypt",
+    "Tokens"
+  ],
+  "author": "Sri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinivasanU/cryptotoken/issues"
+  },
+  "homepage": "https://github.com/srinivasanU/cryptotoken#readme",
+  "peerDependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
