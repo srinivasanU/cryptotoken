@@ -1,6 +1,6 @@
 {
   "name": "tokencrypto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encrypt & Decryp tokens",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/srinivasanU/cryptotoken/issues"
   },
   "homepage": "https://github.com/srinivasanU/cryptotoken#readme",
-  "peerDependencies": {
+  "dependencies": {
     "crypto-js": "^4.0.0"
   }
 }
